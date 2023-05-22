@@ -23,7 +23,7 @@ header, main {
 }
 
 main select, input, button {
-    width: 400px;
+    width: 100%;
     height: 45px;
     padding: 10px;
     margin-bottom: 6px;

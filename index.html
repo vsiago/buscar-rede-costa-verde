@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./src/styles.css">
+    <title>Buscar Rede Credenciada</title>
+</head>
+<body>
+    <header>
+        <h2 class="text-3xl font-bold underline">Rede Credenciada Costa Verde</h2>
+        <p>Encontre a unidade mais perto de voce</p>
+    </header>
+    <main>
+        <select id="inputSelect" >
+            <option value="por-regiao" selected>Buscar por região</option>
+            <option value="por-especialidade">Buscar por especialidade</option>
+        </select><br>
+        <input id="inputKey" type="search" placeholder="Encontre pelo nome do Municipio"><Br>
+        <button id="buscar-rede">Buscar toda rede</button>
+
+        <ul class="content">
+            <span class="title-todas-unidades">TODAS AS UNIDADES</span> <hr>
+
+        </ul>
+    </main>
+
+    <script type="module" src="./script.js"></script>
+</body>
+</html>

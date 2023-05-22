@@ -1,0 +1,1082 @@
+[
+    {
+        "nome": "Labormed",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2493-2420",
+        "regiao": "Barra da Tijuca",
+        "endereco": "Av. das Américas, 5001 – Loja 123",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Labormed",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2284-6399",
+        "regiao": "Bangu RJ",
+        "endereco": "Rua Silva Cardoso, 152 – Sala 519 / 520 – Bloco A",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Labormed",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 4131-0612",
+        "regiao": "Belford Roxo",
+        "endereco": "Estrada Manoel de Sá, 353, Lote 15",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Labormed",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2284-6399",
+        "regiao": "Bento Ribeiro",
+        "endereco": "Estrada Manoel de Sá, 353, Lote 15",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Labormed",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2635-2758",
+        "regiao": "Bonsucesso",
+        "endereco": "Avenida Paris, 199 – Loja",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Labormed",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2571-5522",
+        "regiao": "Botafogo",
+        "endereco": "Rua Voluntários da Pátria, 190 – Sala 602",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Labormed",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2146-0336",
+        "regiao": "Campo Grande",
+        "endereco": "Av. Cesário de Melo, 3321 Loja A",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Labormed",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 3439-0985",
+        "regiao": "Campo Grande",
+        "endereco": "Estrada do Monteiro, 1.117 – Loja",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Labormed",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2557-9732",
+        "regiao": "Catete",
+        "endereco": "R. Dois de Dezembro, 78 - Sala 419",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Labormed",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2494-6809",
+        "regiao": "Centro – Largo da Carioca",
+        "endereco": "Av. Rio Branco, 156 sala 2438 – 2439 (Ed. Av. Central)",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Labormed",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2233-9719",
+        "regiao": "Centro – Pres. Vargas",
+        "endereco": "Av. Presidente Vargas, 583 – Sala 720",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Labormed",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 3594-5000",
+        "regiao": "Copacabana",
+        "endereco": "Pça. Serzedelo Corrêa, 15 grupo 203",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Labormed",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2772-1819",
+        "regiao": "Duque de Caxias",
+        "endereco": "Rua Marechal Deodoro, 593 – Loja B",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Labormed",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2725-6656",
+        "regiao": "Duque de Caxias – Centro",
+        "endereco": "Rua Rua Mariano Sendra dos Santos, 44 – Sala 602",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Labormed",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2502-7086 / (21) 2293-1163",
+        "regiao": "Estácio",
+        "endereco": "Rua Haddock Lobo, 211",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Labormed",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2143-9213",
+        "regiao": "Freguesia",
+        "endereco": "Rua Tirol, 536 – Salas 204 e 205",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Labormed",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 3393-6501",
+        "regiao": "Ilha do Governador",
+        "endereco": "Estrada do Galeão, 2335 – Loja",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Labormed",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 3264-5686",
+        "regiao": "Jacarepagua (Taquara)",
+        "endereco": "Av. Nelson Cardoso, 1149 – Salas 718 e 719",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Labormed",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2259-5137",
+        "regiao": "Leblon",
+        "endereco": "Av. Ataúlfo de Paiva, 1079 – Subsolo – Loja 103",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Labormed",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2489-5124",
+        "regiao": "Madureira 1",
+        "endereco": "Av. Ministro Edgard Romero, 244 – Loja 112",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Labormed",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 3284-5816",
+        "regiao": "Madureira 2",
+        "endereco": "Rua Carolina Machado, 560 – Sala 541 e 542",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Labormed",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2201-8595",
+        "regiao": "Méier",
+        "endereco": "Rua Santa Fé, 145",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Labormed",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2233-0544",
+        "regiao": "Nilópolis",
+        "endereco": "Rua Alberto Teixeira da Cunha, 38 – Sala 710",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Labormed",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2768-9478",
+        "regiao": "Nova Iguaçu 1",
+        "endereco": "Rua Dom Walmor, 35 – Salas 301 e 302",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Labormed",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2667-3368",
+        "regiao": "Nova Iguaçu 2",
+        "endereco": "Rua Coronel Francisco Soares, 71 – Sala 503",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Labormed",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2667-9723",
+        "regiao": "Nova Iguaçu 3",
+        "endereco": "Rua Dr. Thibau, 14 Loja",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Labormed",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2143-0097",
+        "regiao": "Pilares",
+        "endereco": "Av. Dom Helder Câmara, 6.644 – Sala 325/326",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Labormed",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2401-5516",
+        "regiao": "Realengo",
+        "endereco": "Av. Santa Cruz, 1016 – Loja",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Labormed",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2498-3401",
+        "regiao": "Recreio dos Bandeirantes",
+        "endereco": "Av. das Américas, 11.889 – Loja 201",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Labormed",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 3305-4491",
+        "regiao": "Santa Cruz",
+        "endereco": "Rua Felipe Cardoso, 166 – Loja 201",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Labormed",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 4132-7400",
+        "regiao": "São João de Meriti",
+        "endereco": "Rua Santo Antônio, 127 – Loja",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Labormed",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2567-2496",
+        "regiao": "Tijuca – Pça Saens Pena 1",
+        "endereco": "Rua Santo Afonso, 263 – Loja 210",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Labormed",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2567-2496",
+        "regiao": "Tijuca – Pça Saens Pena 2",
+        "endereco": "Rua Conde de Bonfim, 346 – Loja 107",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Labormed",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 3301-3954",
+        "regiao": "Vila da Penha",
+        "endereco": "Av. Vicente de Carvalho, 1438 – Loja B",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Labormed",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2538-1573",
+        "regiao": "Vila Isabel",
+        "endereco": "Rua Teodoro da Silva, 320",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Labormed",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 3755-1864",
+        "regiao": "Vilar dos Teles",
+        "endereco": "Av. Comendador Teles, 2416 – Loja 4",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Labormed",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 3459-5742",
+        "regiao": "Vista Alegre",
+        "endereco": "Rua Santa Luz, 210",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Vida",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(24) 3365-3750",
+        "regiao": "Angra dos Reis",
+        "endereco": "R. Cel. Carvalho, 502 - Centro, Angra dos Reis - RJ, 23952-030",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Angra Lab",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(24) 3371-2030",
+        "regiao": "Parati",
+        "endereco": "R. Manoel Ferreira dos Santos Pádua, 1 - Santos Padua, Paraty - RJ, 23970-000",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Angra Lab",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(24) 3365-2808",
+        "regiao": "Angra dos Reis",
+        "endereco": "Rua Cônegos Bittencourt, 22 - Centro, Angra dos Reis - RJ, 23900-300",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Rio Labor",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2594-9366 / 99498-9327",
+        "regiao": "Engenho da Rainha RJ",
+        "endereco": "Estrada Adhemar Bebiano, 4109 - Engenho da Rainha, Rio de Janeiro - RJ, 20765-171",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Rio Labor",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2594-9366",
+        "regiao": "Bangu RJ 1",
+        "endereco": "R. Silva Cardoso, 152 - Bangu, Rio de Janeiro - RJ, 21810-032",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Rio Labor",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2594-9366",
+        "regiao": "Bangu RJ 2",
+        "endereco": "Rua Silva Cardoso, nº 689",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Rio Labor",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2594-9366",
+        "regiao": "Belford Roxo",
+        "endereco": "Avenida Benjamin Pinto Dias, nº 868 – Centro",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Rio Labor",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2594-9366",
+        "regiao": "Campo Grande RJ",
+        "endereco": "R. Cel. Agostinho - Campo Grande,76 sala 201 Rio de Janeiro - RJ",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Rio Labor",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2594-9366",
+        "regiao": "Copacabana RJ",
+        "endereco": "Avenida Nossa Senhora de Copacabana, nº 731",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Rio Labor",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2594-9366",
+        "regiao": "Madureira RJ",
+        "endereco": "Estr. do Portela, 99 - Sobreloja 279 - Madureira,",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Rio Labor",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2594-9366",
+        "regiao": "Meier RJ",
+        "endereco": "Estr. do Portela, 99 - Sobreloja 279 - Madureira,",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Rio Labor",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2594-9366",
+        "regiao": "Centro RJ",
+        "endereco": "Rua São José, 20 loja B,",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Rio Labor",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2594-9366",
+        "regiao": "Tijuca RJ",
+        "endereco": "Rua Carvalho Alvim, nº 261",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Rio Labor",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2594-9366",
+        "regiao": "São João de Meriti",
+        "endereco": "R. Expedicionários, 62, 2º Andar - Centro, São João de Meriti - RJ, 25520-591",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Rio Labor",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2594-9366",
+        "regiao": "Nilópolis",
+        "endereco": "Rua Pedro Alvares Cabral, 256 lojas F e G – Centro",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Rio Labor",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2594-9366",
+        "regiao": "Duque de Caxias",
+        "endereco": "Avenida Presidente Vargas, nº 108 Loja B – Jardim 25 de Agosto",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Rio Labor",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2594-9366",
+        "regiao": "Freguesia II",
+        "endereco": "Avenida Geremário Dantas, nº 1400 lojas 102 a 104 – Quality Shopping",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Rio Labor",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2594-9366",
+        "regiao": "Ilha do Governador",
+        "endereco": "Estrada do Galeão, 1833 - parte",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Rio Labor",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2594-9366",
+        "regiao": "Nova Iguaçu",
+        "endereco": "Rua Dom Walmor, 383 sala 408 – Centro",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Rio Labor",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2594-9366",
+        "regiao": "Taquara",
+        "endereco": "Estrada Marechal Miguel Salazar Mendes de Morais, 170 lojas B e C",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Rio Labor",
+        "seguimento": "Rede Laboratorial",
+        "telefone": "(21) 2594-9366",
+        "regiao": "Vila da Penha",
+        "endereco": "Avenida Meriti, nº 1507",
+        "princServicos": ["Hemograma", "Fezes", "Urina", "Exames sanguineos", "Linfáticos", "PCRs"]
+    },
+    {
+        "nome": "Clinica Santa Amelia",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(24) 3365-1424",
+        "regiao": "Angra dos Reis",
+        "endereco": "R. do Comércio, 68 - Centro, Angra dos Reis - RJ, 23900-000",
+        "princServicos": ["Consulta"]
+    },
+    {
+        "nome": "Uro Pronto | Clínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 3316-2936",
+        "regiao": "Bangu RJ",
+        "endereco": "R. Jaguaruna, 130 - Campo Grande, Rio de Janeiro - RJ, 23080-160",
+        "princServicos": ["Exames Urologicos"]
+    },
+    {
+        "nome": "Uro Pronto | Clínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 3316-2936",
+        "regiao": "Bangu RJ",
+        "endereco": "R. Jaguaruna, 130 - Campo Grande, Rio de Janeiro - RJ, 23080-160",
+        "princServicos": ["Exames Urologicos"]
+    },
+    {
+        "nome": "Centro Fonoaudiologico Araujo Cid | Clínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 96886-3530 / (21) 3331-8035 / (21) 2402-2041",
+        "regiao": "Bangu RJ",
+        "endereco": "R. Jacinto Alcídes, 324 - Bangu, Rio de Janeiro - RJ, 21815-052",
+        "princServicos": ["Fonoaudiologia"]
+    },
+    {
+        "nome": "Khayat | Policlínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 3159-8717",
+        "regiao": "Bangu RJ",
+        "endereco": "Rua 12 de Fevereiro, 534 - Bangu, Rio de Janeiro - RJ, 21810-052",
+        "princServicos": ["Consulta", "MAPA", "Biopsia de mama", "Audiometria", "Prova de função pulmonar", "Marcação", "USG", "Doppler", "Prostata", "Fonoaudiologia", "Nutrição"]
+    },
+    {
+        "nome": "Dra. Adriana Dallier | Policlínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 3738-5572",
+        "regiao": "Bangu RJ",
+        "endereco": "Rua Silva Cardoso, 405, sala 322 - Bangu CEP 21810-031",
+        "princServicos": ["Policlínica"]
+    },
+    {
+        "nome": "Centro Médico Bangú - Cemeru | Clínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 3463-9750",
+        "regiao": "Bangu RJ",
+        "endereco": "Rua 12 de Fevereiro, 94 - Bangu, Rio de Janeiro - RJ, 21810-052",
+        "princServicos": ["Policlínica"]
+    },
+    {
+        "nome": "Nucleo de Fisioterapia Aplicada | Policlínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 3359-5882",
+        "regiao": "Bento Ribeiro",
+        "endereco": "R. Carolina Machado, 1956 - Mal. Hermes, Rio de Janeiro - RJ, 21557-150",
+        "princServicos": ["Fisioterapias"]
+    },
+    {
+        "nome": "Fontainhas | Clínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 2413-9641",
+        "regiao": "Campo Grande",
+        "endereco": "Est. do Cabuçu, 271 - Campo Grande, Rio de Janeiro - RJ, 23052-230",
+        "princServicos": ["Testes alérgicos"]
+    },
+    {
+        "nome": "Centro Médico Campo Grande Ambulatorial - Cemeru | Policlínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 2399-0910",
+        "regiao": "Campo Grande",
+        "endereco": "Av. Cesário de Melo, 1820 - Sen. Vasconcelos, Rio de Janeiro - RJ, 23052-102",
+        "princServicos": ["Policlínica"]
+    },
+    {
+        "nome": "Centro Médico Guanabara | Policlínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 2413-5154",
+        "regiao": "Campo Grande",
+        "endereco": "Av. Cesário de Melo, 2310 - Campo Grande, Rio de Janeiro - RJ, 23052-102",
+        "princServicos": ["Consultas", "Dermatologicos", "Fisioterapia", "Psciologia", "Nutrição", "Fonoaudiologia"]
+    },
+    {
+        "nome": "Clinica Dr Claudio Coelho | Clínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 99720-1128",
+        "regiao": "Campo Grande",
+        "endereco": "R. Viúva Dantas, 214 - 609 - Campo Grande, Rio de Janeiro - RJ, 23052-090",
+        "princServicos": ["Consulta e exames em otorrino"]
+    },
+    {
+        "nome": "Reabilitar Center | Policlínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 3406-8626",
+        "regiao": "Campo Grande",
+        "endereco": "R. Laplace, 20 - Campo Grande, Rio de Janeiro - RJ, 23080-340",
+        "princServicos": ["Acupuntura", "Fonoaudiologia", "Fisioterapia", "Reumatologista Psicologia"]
+    },
+    {
+        "nome": "Ceti (Centro de Terapias Integrada) | Policlínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 2486-3783 / (21) 99878-6565",
+        "regiao": "Campo Grande",
+        "endereco": "Rua Sacramento Blake, 65 - Campo Grande, Rio de Janeiro - RJ, 23052-160",
+        "princServicos": ["Terapias-Fonoaudiologia", "psicologia", "fisioterapia", "neuropsicologia"]
+    },
+    {
+        "nome": "Arte Clínica | Policlínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 2412-6634",
+        "regiao": "Campo Grande",
+        "endereco": "R. Agostinho Coelho, 99 - Sala 609 / 610 - Campo Grande, Rio de Janeiro - RJ, 23050-310",
+        "princServicos": ["Terapias"]
+    },
+    {
+        "nome": "Dra. Adriana Dallier | Policlínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 3738-5572",
+        "regiao": "Campo Grande",
+        "endereco": "Ed. Plaza Office, Av. Maria Teresa, 260 - Campo Grande, Rio de Janeiro - RJ, 23050-102",
+        "princServicos": ["Endocrinologia", "Neurocirurgia", "Neurologista", "Nutrição", "Pediatra", "Dermatologia", "Ortopedia", "Psiquiatria"]
+    },
+    {
+        "nome": "Medicina Preventiva - Cemeru | Clínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 3305-7225",
+        "regiao": "Campo Grande",
+        "endereco": "Rua Sacramento Blake, 107 - Campo Grande, Rio de Janeiro - RJ, 23052-160",
+        "princServicos": ["Programas de Saúde", "pré Natal", "Pré Natal de Alto Risco", "Planejamento Familiar"]
+    },
+    {
+        "nome": "Centro Médico Pediátrico - Cemeru | Clínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 2412-1473",
+        "regiao": "Campo Grande",
+        "endereco": "Rua Sacramento Blake, 180 - Campo Grande, Rio de Janeiro - RJ, 23052-160",
+        "princServicos": ["Pediatria"]
+    },
+    {
+        "nome": "Centro Médico Campo Grande - 24 horas - Cemeru | Clínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 3402-9000",
+        "regiao": "Campo Grande",
+        "endereco": "Av. Cesário de Melo, 2427 - Campo Grande, Rio de Janeiro - RJ, 23052-102",
+        "princServicos": ["Policlínica"]
+    },
+    {
+        "nome": "Ceverj - Endoscopia Ginecológica | Clínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 2269-0682",
+        "regiao": "Del Castilho",
+        "endereco": "PONTO NORTE EMPRESARIAL - Av. Dom Hélder Câmara, N 5644 - Sala 810 e 811 - Cachambi, Rio de Janeiro - RJ, 20771-034",
+        "princServicos": ["Histeroscopias"]
+    },
+    {
+        "nome": "Norte Caxiense | Policlínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 2778-2778",
+        "regiao": "Duque de Caxias",
+        "endereco": "R. Gen. Lucas Guimarães, 2 - Parque Uruguaiana, Duque de Caxias - RJ, 25212-415",
+        "princServicos": ["Consulta", "Testes alergicos", "Fisioterapia", "Psicologia", "Fonoaudiologia", "Nutrição"]
+    },
+    {
+        "nome": "Centro Médico 25 de Agosto | Clínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 96521-8660 / (21) 2671-4562 / (21) 2772-1104",
+        "regiao": "Duque de Caxias",
+        "endereco": "R. Passos da Pátria, 120 - 6 andar - Jardim Vinte e Cinco de Agosto, Duque de Caxias - RJ, 25071-220",
+        "princServicos": ["Policlínica"]
+    },
+    {
+        "nome": "Clinica Rio | Policlínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 2471-4810",
+        "regiao": "Iraja",
+        "endereco": "R. Torquarto Cabral, 89 - Irajá, Rio de Janeiro - RJ, 21230-170",
+        "princServicos": ["Consultas", "Nutrição", "Psicologia", "Fonoaudiologia"]
+    },
+    {
+        "nome": "Centro Médico Itaguaí - Oplan | Policlínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 3782-9600 / (21) 2688-4760",
+        "regiao": "Itaguaí",
+        "endereco": "Estr. Ari Parreiras, 201 - Centro, Itaguaí - RJ, 23815-541",
+        "princServicos": ["Consultas", "ECG", "Curativos"]
+    },
+    {
+        "nome": "Rinofitti | Clínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 2688-5914",
+        "regiao": "Itaguaí",
+        "endereco": "Av. Paulo de Frontin, 61 - sala 210 - Centro, Itaguaí - RJ, 23815-490",
+        "princServicos": ["Consultas e exames Otorrino"]
+    },
+    {
+        "nome": "Clinica Santa Helena de Itaguai | Clínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 2688-4397",
+        "regiao": "Itaguaí",
+        "endereco": "R. Cel. Freitas, 541 - Centro, Itaguaí - RJ, 23815-260",
+        "princServicos": ["Consulta", "Nutrição", "ECG"]
+    },
+    {
+        "nome": "CDI | Clínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 2687-5618",
+        "regiao": "Itaguaí",
+        "endereco": "R. Amélia Louzada, 123 - Centro, Itaguaí - RJ, 23815-180",
+        "princServicos": ["Prova de função pulmonar", "Biopsia aspirativa", "Mamografia","Densitometria ossea", "USG"]
+    },
+    {
+        "nome": "CMI - Central Medica Itaguaí | Policlínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 2688-6256",
+        "regiao": "Itaguaí-",
+        "endereco": "Av. Dr. Mario Guimarães, 261 - Centro, Nova Iguaçu - RJ, 26255-230",
+        "princServicos": ["Audiometria", "Teste ergométrico", "Eletroneuromiografias", "Potencial Evocado", "Consultas", "Holter MAPA", "Fisioterapias", "ECG", "Ecodoppler", "US Obstetrica", "Coleta vaginal"]
+    },
+    {
+        "nome": "Cemtrabi | Policlínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 2688-1781",
+        "regiao": "Itaguaí",
+        "endereco": "R. Rev. Otávio Luís Viêira, 49 - Centro, Itaguaí - RJ, 23815-150",
+        "princServicos": ["Consulta", "Holter", "MAPA", "ECG", "Teste Ergométrico", "Audiometria", "EEG", "Prova de função Pulmonar", "US Obstetrica", "Tomografias"]
+    },
+    {
+        "nome": "Centro de Integração Médica Marechal Hermes | Clínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 3830-1539",
+        "regiao": "Marechal Hermes",
+        "endereco": "R. Eng. Emílio Baumgart, 216 - Mal. Hermes, Rio de Janeiro - RJ, 21610-240",
+        "princServicos": ["Policlinica"]
+    },
+    {
+        "nome": "Centro Médico Mesquita | Policlínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 3830-1539",
+        "regiao": "Mesquita",
+        "endereco": "Av. Dr. Manuel Duarte, 598 - Centro, Mesquita - RJ, 26554-160",
+        "princServicos": ["Consulta"]
+    },
+    {
+        "nome": "Climol | Policlínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 2697-0630",
+        "regiao": "Mesquita",
+        "endereco": "Av. Getúlio de Moura, 1040 - Centro, Mesquita - RJ, 26550-070",
+        "princServicos": ["Consulta", "Audiometria", "Psicologia", "Fonoaudiologia"]
+    },
+    {
+        "nome": "Centro Médico Olinda | Policlínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 2691-7616",
+        "regiao": "Nilópolis",
+        "endereco": "R. Mal. Castelo Branco, 487 - Centro, Nilópolis - RJ, 26525-122",
+        "princServicos": ["Consultas", "Fisioterapias", "Eletroneuro", "Psicologia", "Fonoaudiologia"]
+    },
+    {
+        "nome": "Centro Médico Olinda | Policlínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 2691-8612",
+        "regiao": "Nilópolis",
+        "endereco": "Av. Getúlio de Moura, 321 - Olinda, Nilópolis - RJ, 26510-000",
+        "princServicos": ["Consulta", "Nutrição", "ECG", "Fisioterapias", "Fonoaudiologia", "Psicologia"]
+    },
+    {
+        "nome": "Nova Saude Clinica | Clínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 2691-6950",
+        "regiao": "Nilópolis",
+        "endereco": "Av. Getúlio Vargas, 1199 - Centro, Nilópolis - RJ, 26525-023",
+        "princServicos": ["Consulta", "Testes alergicos"]
+    },
+    {
+        "nome": "Irclin | Policlínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 3767-2845",
+        "regiao": "Nova Iguaçu",
+        "endereco": "R. Geni Saraíva, 586 - Cerâmica, Nova Iguaçu - RJ, 26031-482",
+        "princServicos": ["Consulta", "Nutrologia", "Psicologia", "Nutrição"]
+    },
+    {
+        "nome": "Centro de Integração Médica Nova Iguaçu | Clínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 2767-7924",
+        "regiao": "Nova Iguaçu",
+        "endereco": "Av. Dr. Mario Guimarães, 261 - Centro, Nova Iguaçu - RJ, 26255-230",
+        "princServicos": ["Policlínica"]
+    },
+    {
+        "nome": "Medclinic Vita | Policlínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 2667-4605",
+        "regiao": "Nova Iguaçu",
+        "endereco": "Rua Otávio Tarquino, n:74, sala:1101 - Centro, Nova Iguaçu - RJ, 26210-172",
+        "princServicos": ["Consulta", "Nutrição"]
+    },
+    {
+        "nome": "Clínica do Carmo | Clínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 3341-3464",
+        "regiao": "Penha",
+        "endereco": "Av. Brás de Pina, 1123 - Penha Circular, Rio de Janeiro - RJ, 21210-674",
+        "princServicos": ["Policlínica"]
+    },
+    {
+        "nome": "Kronus | Clínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 2509-7491 / (21) 2232-6362",
+        "regiao": "Pilares",
+        "endereco": "Av. Dom Hélder Câmara, 5200 - 705 Cachambi, Rio de Janeiro - RJ, 20771-004",
+        "princServicos": ["Policlínica"]
+    },
+    {
+        "nome": "Centro Médico Suburbana | Clínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 3734-6494",
+        "regiao": "Quintino",
+        "endereco": "Av. Dom Hélder Câmara, 9125 - Quintino Bocaiuva Rio de Janeiro - RJ, 21380-008",
+        "princServicos": ["Policlínica"]
+    },
+    {
+        "nome": "Centro Médico Rocha Miranda | Clínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 3371-6686",
+        "regiao": "Rocha Miranda",
+        "endereco": "Av. dos Italianos, 1089 - Loja C - Rocha Miranda, Rio de Janeiro - RJ, 21510-101",
+        "princServicos": ["Policlínica"]
+    },
+    {
+        "nome": "Clinica Médica Santa Cruz - Cemeru | Policlínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 2418-3366",
+        "regiao": "Santa Cruz",
+        "endereco": "R. Felipe Cardoso, 1027 - Santa Cruz, Rio de Janeiro - RJ, 23515-000",
+        "princServicos": ["Consultas", "ECG", "Curativos"]
+    },
+    {
+        "nome": "Veronica Souza da Rocha Lopes | Clínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 99865-3165",
+        "regiao": "Santa Cruz",
+        "endereco": "Estr. Santa Maria, 575 - Campo Grande, Rio de Janeiro - RJ, 23071-160",
+        "princServicos": ["Fisioterapias"]
+    },
+    {
+        "nome": "Apice | Policlínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 3668-3131",
+        "regiao": "São João de Meriti",
+        "endereco": "Av. Automóvel Clube, 63 - Centro, São João de Meriti - RJ, 25515-125",
+        "princServicos": ["Consulta", "Holter", "Audiometria", "Fisioterapias", "Coleta Vaginal", "Laringoscopia", "Tomografias", "Prova de função pulmonar", "Ecodoppler"]
+    },
+    {
+        "nome": "Clinica Santa Terezinha | Clínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 2751-0424",
+        "regiao": "São João de Meriti",
+        "endereco": "Av Dep. José da Costa França, 385 - Vilar dos Teles, São João de Meriti - RJ, 25555-783",
+        "princServicos": ["Consulta", "Raio-X", "Mapa", "Holter", "USG Obstetrica", "Psicologia", "Testes alergicos"]
+    },
+    {
+        "nome": "Cemav | Clínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 2415-8983",
+        "regiao": "Campo Grande",
+        "endereco": "R. Augusto de Vasconcelos, 914 - Lj A Campo Grande, Rio de Janeiro - RJ, 23045-050",
+        "princServicos": ["Consulta", "Mapa", "EEG", "Ecodoppler", "Mamografia", "Testes alergicos", "Coleta Vaginal"]
+    },
+    {
+        "nome": "Centro Médico Seropédica - Cemeru | Policlínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 2682-2017",
+        "regiao": "Seropédica",
+        "endereco": "Rua Ministro Fernando Costa, 1246 - Centro, Seropédica - RJ, 23890-970",
+        "princServicos": ["Consultas", "ECG"]
+    },
+    {
+        "nome": "Centro Médico Sulacap - Cemeru | Clínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 3305-7205",
+        "regiao": "Sulacap",
+        "endereco": "Av. Marechal Fontenele, 3545 - Jardim Sulacap, Rio de Janeiro - RJ, 21750-000",
+        "princServicos": ["Policlínica"]
+    },
+    {
+        "nome": "Centro Médico - Vila Nova - Cemeru | Clínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 3405-9800",
+        "regiao": "Campo Grande",
+        "endereco": "Estr. Santa Maria, 575 - Campo Grande, Rio de Janeiro - RJ, 23071-160",
+        "princServicos": ["Policlínica"]
+    },
+    {
+        "nome": "SASE Policlínica Geral de Itaguaí | Policlínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 3801-4577",
+        "regiao": "Itaguaí",
+        "endereco": "R. Gen. Bocaiúva, 710 - Centro, Itaguaí - RJ, 23815-310",
+        "princServicos": ["Policlínica"]
+    },
+    {
+        "nome": "Neurofisiologia e Distúrbio do Sono - Clínica do Sono | Clínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 3338-7350",
+        "regiao": "Bangu",
+        "endereco": "R. Silva Cardoso, 125 - Bangu, Rio de Janeiro - RJ, 21810-000",
+        "princServicos": ["Consultas e Exames"]
+    },
+    {
+        "nome": "Clinica Médica Total Saúde | Clínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 2412-0901",
+        "regiao": "Campo Grande",
+        "endereco": "R. Alfredo de Morais, 146 - Campo Grande, Rio de Janeiro - RJ, 23080-100",
+        "princServicos": ["Consulta", "MAPA", "ECG", "Ecodoppler", "USG", "Doppler"]
+    },
+    {
+        "nome": "Clinica Integrada da Asce | Policlínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 2209-9408",
+        "regiao": "Bonsucesso",
+        "endereco": "R. Uaruma, 80 - Higienópolis, Rio de Janeiro - RJ, 21050-660",
+        "princServicos": ["Consulta", "Audiometria", "EEG", "Terapia Ocupacional", "Psicologia", "Fonoaudiologia"]
+    },
+    {
+        "nome": "Neuroclinica Duque de Caxias | Clínica",
+        "seguimento": "Rede de clinicas",
+        "telefone": "(21) 2673-1399",
+        "regiao": "Duque de Caxias",
+        "endereco": "R. Mal. Deodoro, 367 - Jardim Vinte e Cinco de Agosto, Duque de Caxias - RJ, 25071-190",
+        "princServicos": ["EEGQ", "Eletroneuro", "Potencial Evocado", "Psicologia", "Fonoaudiologia"]
+    },
+    {
+        "nome": "Life Imagem",
+        "seguimento": "Centro de Imagem e Diagnóstico",
+        "telefone": "(21) 2212-6200",
+        "regiao": "Campo Grande",
+        "endereco": "Av. Cesário de Melo, 3045 - Campo Grande, Rio de Janeiro - RJ, 23050-101",
+        "princServicos": ["RX", "Densitometria", "Histerosalpingografia", "Tomografia e Angio", "Ressonância", "Angio"]
+    },
+    {
+        "nome": "Neurofisiologia e distúrbios do sono",
+        "seguimento": "Centro de Imagem e Diagnóstico",
+        "telefone": "(21) 3338-7350",
+        "regiao": "Bangu",
+        "endereco": "R. Silva Cardoso, 125 - Bangu, Rio de Janeiro - RJ, 21810-000",
+        "princServicos": ["MAPA", "ECG", "Eletroneuro", "EEGQ", "Polissonograma", "Portencial", "Evocado"]
+    },
+    {
+        "nome": "RX Bandeirantes",
+        "seguimento": "Centro de Imagem e Diagnóstico",
+        "telefone": "(21) 3382-7300",
+        "regiao": "Bangu",
+        "endereco": "Rua 12 de Fevereiro, 282 - Bangu, Rio de Janeiro - RJ, 21810-052",
+        "princServicos": ["Teste Ergométrico", "RX", "Tomografia", "Angio"]
+    },
+    {
+        "nome": "RX Bandeirantes",
+        "seguimento": "Centro de Imagem e Diagnóstico",
+        "telefone": "(21) 3382-7300",
+        "regiao": "Campo Grande",
+        "endereco": "R. Cel. Agostinho, 76 - Sala 202 - Campo Grande, Rio de Janeiro - RJ, 23050-360",
+        "princServicos": ["Teste Ergométrico", "Raio-X", "Tomografia", "Angio"]
+    },
+    {
+        "nome": "Gaveacor",
+        "seguimento": "Centro de Imagem e Diagnóstico",
+        "telefone": "(21) 3138-5072",
+        "regiao": "Duque de Caxias",
+        "endereco": "Rua Professor Jose de Souza Herdy, 221, LOJA LOJA APT 101 APT 201, Jardim Vinte e Cinco de Agosto, Duque de Caxias/RJ - CEP 25075-141",
+        "princServicos": ["Holter", "Tilt", "Teste ECG", "Teste ergometrico", "Raio-X", "Doppler", "USG"]
+    },
+    {
+        "nome": "Centro Medicina Nuclear da Guanabara",
+        "seguimento": "Centro de Imagem e Diagnóstico",
+        "telefone": "(21) 4002-0203",
+        "regiao": "Campo Grande",
+        "endereco": "Av. Cesário de Melo, 3280 - Campo Grande, Rio de Janeiro - RJ, 23050-270",
+        "princServicos": ["Raio-X", "USG", "Tomografia", "Ressonância"]
+    },
+    {
+        "nome": "Centro Medicina Nuclear da Guanabara",
+        "seguimento": "Centro de Imagem e Diagnóstico",
+        "telefone": "(21) 4002-0203",
+        "regiao": "Duque de Caxias",
+        "endereco": "Av. Brg. Lima e Silva, 1976 - Jardim Vinte e Cinco de Agosto, Duque de Caxias - RJ, 25071-182",
+        "princServicos": ["Raio-X", "USG", "Tomografia"]
+    },
+    {
+        "nome": "Centro Medico e Imagens Paladino",
+        "seguimento": "Centro de Imagem e Diagnóstico",
+        "telefone": "(21) 3039-9150",
+        "regiao": "Nilopolis",
+        "endereco": "R. Prof. Alfredo Gonçalves Figueira, 11 - Centro, Nilópolis - RJ, 26525-060",
+        "princServicos": ["Endoscopias", "Colonoscopias", "Holter", "MAPA", "ECG", "Teste ergométrico", "Densitometria", "Raio-X", "Marcação", "USG", "Doppler", "Tomografias"]
+    },
+    {
+        "nome": "Kenko Saúde",
+        "seguimento": "Centro de Imagem e Diagnóstico",
+        "telefone": "(21) 2687-4761 / (21) 99542-5651",
+        "regiao": "Itaguaí",
+        "endereco": "Av. Dep. Octávio Cabral, 810 - Jardim America, Itaguaí - RJ, 23810-305",
+        "princServicos": ["Ressonâncias e Angio", "Tomografias e Angio", "Dopplers", "USG"]
+    },
+    {
+        "nome": "Centro Médico Campo Grande Ambulatorial - Cemeru",
+        "seguimento": "Centro de Imagem e Diagnóstico",
+        "telefone": "(21) 2399-0910",
+        "regiao": "Campo Grande",
+        "endereco": "Av. Cesário de Melo, 1820 - Sen. Vasconcelos, Rio de Janeiro - RJ, 23052-102",
+        "princServicos": ["Tomografia", "Ultrassonografia", "Mamografia", "Densitometria", "Ossea", "Raio-X"]
+    },
+    {
+        "nome": "Hospital Geral de Itaguaí | Hospital Geral",
+        "seguimento": "Centro de Imagem e Diagnóstico",
+        "telefone": "(21) 3305-7245",
+        "regiao": "Itaguaí",
+        "endereco": "Estr. Ari Parreiras, S/N - Centro, Itaguaí - RJ, 23815-541",
+        "princServicos": ["Endoscopia", "Colonoscopia"]
+    },
+    {
+        "nome": "Hospital Geral de Itaguaí | Hospital Geral",
+        "seguimento": "Centro de Imagem e Diagnóstico",
+        "telefone": "(21) 3305-7245",
+        "regiao": "Itaguaí",
+        "endereco": "Estr. Ari Parreiras, S/N - Centro, Itaguaí - RJ, 23815-541",
+        "princServicos": ["Ecodoppler", "Tomografia", "Ultrassonografia", "Raio-X"]
+    },
+    {
+        "nome": "Neurofisiologia e Distúrbio do Sono - Clínica do Sono",
+        "seguimento": "Centro de Imagem e Diagnóstico",
+        "telefone": "(21) 3338-7350",
+        "regiao": "Bangu",
+        "endereco": "R. Silva Cardoso, 125 - Bangu, Rio de Janeiro - RJ, 21810-000",
+        "princServicos": ["Doppler", "Ultrassonografia"]
+    },
+    {
+        "nome": "OMNI",
+        "seguimento": "Centro de Imagem e Diagnóstico",
+        "telefone": "(21) 2394-3331",
+        "regiao": "Campo Grande",
+        "endereco": "R. Artur Rios, Nº296 - Sen. Vasconcelos, Rio de Janeiro - RJ, 23013-470",
+        "princServicos": ["USG - Criança", "Mamografia", "Raio-X", "Densitometria Óssea", "Paff de Tiréode", "Doppler"]
+    },
+    {
+        "nome": "Amo Serviços Médicos",
+        "seguimento": "Centro de Imagem e Diagnóstico",
+        "telefone": "(21) 2682-1822",
+        "regiao": "Seropédica",
+        "endereco": "R. Benedito Coelho de Castro, 21 - Fazenda Caxias, Seropédica - RJ, 23890-000",
+        "princServicos": ["Ultrassonografia"]
+    },
+    {
+        "nome": "Clinica Amo Bangu",
+        "seguimento": "Centro de Imagem e Diagnóstico",
+        "telefone": "(21) 3331-2841",
+        "regiao": "Bangu",
+        "endereco": "Praça da Fé, 20 - Bangu, Rio de Janeiro - RJ, 21810-020",
+        "princServicos": ["Ultrassonografia"]
+    },
+    {
+        "nome": "Clinica Amo Bangu",
+        "seguimento": "Centro de Imagem e Diagnóstico",
+        "telefone": "(21) 3331-2841",
+        "regiao": "Bangu",
+        "endereco": "Praça da Fé, 20 - Bangu, Rio de Janeiro - RJ, 21810-020",
+        "princServicos": ["Ultrassonografia"]
+    },
+    {
+        "nome": "Hospital Geral Cemeru | Hospital com Maternidade",
+        "seguimento": "Centro de Imagem e Diagnóstico",
+        "telefone": "(21) 3365-4040",
+        "regiao": "Santa Cruz",
+        "endereco": "R. Felipe Cardoso, 1027 - Santa Cruz, Rio de Janeiro - RJ, 23510-360",
+        "princServicos": ["Ecodoppler", "Doppler", "Eletroencefalograma c/ Mapeamento", "Tomografia", "Ultrassonografia", "Raio-X"]
+    },
+    {
+        "nome": "Hospital Geral Cemeru | Hospital com Maternidade",
+        "seguimento": "Centro de Imagem e Diagnóstico",
+        "telefone": "(21) 3365-4040",
+        "regiao": "Santa Cruz",
+        "endereco": "R. Felipe Cardoso, 1027 - Santa Cruz, Rio de Janeiro - RJ, 23510-360",
+        "princServicos": ["Endoscopia", "Colonoscopia"]
+    },
+    {
+        "nome": "Hospital Geral de Itaguaí | Hospitalar",
+        "seguimento": "Hospitais e PA",
+        "telefone": "(21) 3305-7245",
+        "regiao": "Itaguaí",
+        "endereco": "Estr. Ari Parreiras, S/N - Centro, Itaguaí - RJ, 23815-541",
+        "princServicos": ["Internações Clínicas e Cirúrgicas", "Adulto", "Pediatria", "Ortopedia"]
+    },
+    {
+        "nome": "Hospital Geral Cemeru | Hospital com Maternidade",
+        "seguimento": "Hospitais e PA",
+        "telefone": "(21) 3365-4040",
+        "regiao": "Santa Cruz",
+        "endereco": "R. Felipe Cardoso, 1027 - Santa Cruz, Rio de Janeiro - RJ, 23510-360",
+        "princServicos": ["Internações Clínicas e Cirúrgicas", "Adulto", "Pediatria", "Maternidade", "Urgencias Ginecológicas", "Ortopedia"]
+    },
+    {
+        "nome": "Centro Médico Campo Grande 24 horas - Cemeru | Ambulatorial",
+        "seguimento": "Hospitais e PA",
+        "telefone": "(21) 3402-9000",
+        "regiao": "Campo Grande",
+        "endereco": "Av. Cesário de Melo, 2427 - Campo Grande, Rio de Janeiro - RJ, 23052-102",
+        "princServicos": ["Pronto Socorro - Adulto e pediatria"]
+    }
+]

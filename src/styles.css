@@ -18,7 +18,7 @@ h2 {
     color: rgb(50, 41, 51);
 }
 
-header, main {
+header {
     text-align: center;
 }
 
@@ -58,6 +58,7 @@ button {
     cursor: pointer;
     display: block;
     margin-top: 8px;
+    text-align: center;
 }
 
 ul {

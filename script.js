@@ -1,13 +1,43 @@
 const divContent = document.querySelector('.content');
+const divListFavoritos = document.querySelector('.lista-favoritos')
 const inputSearch = document.querySelector('input[type="search"]');
 const btnLimpar = document.querySelector('.limpar')
 const url = './rede-costa-verde.json';
 let items = [];
+let itemsFavoritos = []
+
 
 // Funcao para limpar pesquisa
 btnLimpar.addEventListener('click', () => {
   divContent.innerHTML = ''
 })
+
+// Funcao de salvar o item
+function salvarItem(item) {
+  divListFavoritos.innerHTML = ''
+
+  itemsFavoritos.push(item)
+
+  itemsFavoritos.forEach(itemFavorito => {
+    const { nome, seguimento, telefone, regiao, endereco, princServicos } = itemFavorito;
+
+    const li = document.createElement('li');
+    li.innerHTML += `
+      <h3 class="regiao">${regiao}</h3>
+      <p class="nome"><strong>${nome}</strong></p>
+      <p class="seguimento">${seguimento}</p>
+      <p class="telefone">${telefone}</p>
+      <p class="endereco">${endereco}</p>
+      <p class="princServicos">${princServicos}</p>
+    `;
+
+    divListFavoritos.append(li)
+  })
+
+
+
+  console.log(itemsFavoritos);
+}
 
 // Função para renderizar os itens na lista
 function renderItems(filteredItems) {
@@ -26,7 +56,14 @@ function renderItems(filteredItems) {
       <p class="princServicos">${princServicos}</p>
       <button class="salvar-local">Salvar local</button>
     `;
+
     divContent.append(li);
+
+    const btnSalvarLocal = li.querySelector('.salvar-local');
+    btnSalvarLocal.addEventListener('click', function() {
+      salvarItem(item)
+    })
+
   });
 }
 
@@ -44,6 +81,7 @@ fetch(url)
     }));
   });
 
+
 //Evento de input para realizar a busca
 inputSearch.addEventListener('input', function() {
     const searchTerm = inputSearch.value.toLowerCase();
@@ -56,6 +94,7 @@ inputSearch.addEventListener('input', function() {
     if(searchTerm === '') {
         divContent.innerHTML = ''
     }
+
 });
 
 // Listar por Opcao Selecionada
@@ -105,37 +144,18 @@ function selecionarOpcao(selectElement) {
 const buscaRede = document.querySelector('#buscar-rede');
 
 buscaRede.addEventListener('click', function() {
-    const buscarRede = fetch(url);
-    buscarRede
-        .then(response => response.json())
-        .then(redeJson => redeJson.forEach(rede => {
-    const { nome, seguimento, telefone, regiao, endereco, princServicos } = rede
-    
-    items.push({
-        nome: nome,
-        seguimento: seguimento,
-        telefone: telefone,
-        regiao: regiao,
-        endereco: endereco,
-        princServicos: princServicos
-    })
+    const searchTerm = inputSearch.value.toLowerCase();
+    const filteredItems = items.filter(item =>
+        item.regiao.toLowerCase().includes(searchTerm)
+    );
 
-    const li = document.createElement('li')
-    li.innerHTML = `
-    <h3 class="regiao">${regiao}</h3>
-    <p class="nome"><strong>${nome}</strong></p>
-    <p class="seguimento">${seguimento}</p>
-    <p class="telefone">${telefone}</p>
-    <p class="endereco">${endereco}</p>
-    <p class="princServicos">${princServicos}</p>
-    <button class="salvar-local">Salvar local</button>
-    `
-    divContent.append(li)
-
-}))
+    renderItems(filteredItems);
 })
+
 
 // Chamada da função selecionarOpcao após a definição
 document.querySelector('#inputSelect').addEventListener('change', function() {
     selecionarOpcao(this);
 });
+
+console.log(itemsFavoritos);

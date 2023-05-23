@@ -6,69 +6,7 @@ const url = './rede-costa-verde.json';
 let items = [];
 let itemsFavoritos = []
 
-
-// Funcao para limpar pesquisa
-btnLimpar.addEventListener('click', () => {
-  divContent.innerHTML = ''
-})
-
-// Funcao de salvar o item
-function salvarItem(item) {
-  divListFavoritos.innerHTML = ''
-  const index = itemsFavoritos.findIndex(favorito => favorito.id === item.id);
-
-  itemsFavoritos.push(item);
-
-  
-
-  itemsFavoritos.forEach(itemFavorito => {
-    const { nome, seguimento, telefone, regiao, endereco, princServicos } = itemFavorito;
-
-    const li = document.createElement('li');
-    li.innerHTML += `
-      <h3 class="regiao">${regiao}</h3>
-      <p class="nome"><strong>${nome}</strong></p>
-      <p class="seguimento">${seguimento}</p>
-      <p class="telefone">${telefone}</p>
-      <p class="endereco">${endereco}</p>
-      <p class="princServicos">${princServicos}</p>
-    `;
-
-    divListFavoritos.append(li)
-  })
-
-
-
-  console.log(itemsFavoritos);
-}
-
-// Função para renderizar os itens na lista
-function renderItems(filteredItems) {
-  divContent.innerHTML = '';
-
-  filteredItems.forEach(item => {
-    const { nome, seguimento, telefone, regiao, endereco, princServicos } = item;
-
-    const li = document.createElement('li');
-    li.innerHTML = `
-      <h3 class="regiao">${regiao}</h3>
-      <p class="nome"><strong>${nome}</strong></p>
-      <p class="seguimento">${seguimento}</p>
-      <p class="telefone">${telefone}</p>
-      <p class="endereco">${endereco}</p>
-      <p class="princServicos">${princServicos}</p>
-      <button class="salvar-local">Salvar local</button>
-    `;
-
-    divContent.append(li);
-
-    const btnSalvarLocal = li.querySelector('.salvar-local');
-    btnSalvarLocal.addEventListener('click', function() {
-      salvarItem(item)
-    })
-
-  });
-}
+// ------------------------------------------------------------------------------------
 
 // Realizar a requisição inicial para obter os dados
 fetch(url)
@@ -84,8 +22,23 @@ fetch(url)
     }));
   });
 
+// ------------------------------------------------------------------------------------
 
-//Evento de input para realizar a busca
+// Listar pelo botao Buscar Toda Rede
+const buscaRede = document.querySelector('#buscar-rede');
+
+buscaRede.addEventListener('click', function() {
+    const searchTerm = inputSearch.value.toLowerCase();
+    const filteredItems = items.filter(item =>
+        item.regiao.toLowerCase().includes(searchTerm)
+    );
+
+    renderItems(filteredItems);
+})
+
+// ------------------------------------------------------------------------------------
+
+//Evento de input para realizar a busca principal Por Regiao
 inputSearch.addEventListener('input', function() {
     const searchTerm = inputSearch.value.toLowerCase();
     const filteredItems = items.filter(item =>
@@ -97,8 +50,9 @@ inputSearch.addEventListener('input', function() {
     if(searchTerm === '') {
         divContent.innerHTML = ''
     }
-
 });
+
+// ------------------------------------------------------------------------------------
 
 // Listar por Opcao Selecionada
 function selecionarOpcao(selectElement) {
@@ -143,22 +97,71 @@ function selecionarOpcao(selectElement) {
     }
 }
 
-// Listar pelo botao Buscar Toda Rede
-const buscaRede = document.querySelector('#buscar-rede');
-
-buscaRede.addEventListener('click', function() {
-    const searchTerm = inputSearch.value.toLowerCase();
-    const filteredItems = items.filter(item =>
-        item.regiao.toLowerCase().includes(searchTerm)
-    );
-
-    renderItems(filteredItems);
-})
-
-
 // Chamada da função selecionarOpcao após a definição
 document.querySelector('#inputSelect').addEventListener('change', function() {
     selecionarOpcao(this);
 });
+
+// ------------------------------------------------------------------------------------
+
+// Funcao para limpar pesquisa
+btnLimpar.addEventListener('click', () => {
+  divContent.innerHTML = ''
+})
+
+// ------------------------------------------------------------------------------------
+
+// Funcao de salvar o item
+function salvarItem(item) {
+  divListFavoritos.innerHTML = ''
+  const index = itemsFavoritos.findIndex(favorito => favorito.id === item.id);
+
+  itemsFavoritos.push(item);
+  itemsFavoritos.forEach(itemFavorito => {
+    const { nome, seguimento, telefone, regiao, endereco, princServicos } = itemFavorito;
+
+    const li = document.createElement('li');
+    li.innerHTML += `
+      <h3 class="regiao">${regiao}</h3>
+      <p class="nome"><strong>${nome}</strong></p>
+      <p class="seguimento">${seguimento}</p>
+      <p class="telefone">${telefone}</p>
+      <p class="endereco">${endereco}</p>
+      <p class="princServicos">${princServicos}</p>
+    `;
+
+    divListFavoritos.append(li)
+  })
+  console.log(itemsFavoritos);
+}
+
+// Função para renderizar os itens salvos na lista de Favoritos
+function renderItems(filteredItems) {
+  divContent.innerHTML = '';
+
+  filteredItems.forEach(item => {
+    const { nome, seguimento, telefone, regiao, endereco, princServicos } = item;
+
+    const li = document.createElement('li');
+    li.innerHTML = `
+      <h3 class="regiao">${regiao}</h3>
+      <p class="nome"><strong>${nome}</strong></p>
+      <p class="seguimento">${seguimento}</p>
+      <p class="telefone">${telefone}</p>
+      <p class="endereco">${endereco}</p>
+      <p class="princServicos">${princServicos}</p>
+      <button class="salvar-local">Salvar local</button>
+    `;
+
+    divContent.append(li);
+
+    const btnSalvarLocal = li.querySelector('.salvar-local');
+    btnSalvarLocal.addEventListener('click', function() {
+      salvarItem(item)
+    })
+  });
+}
+
+// ------------------------------------------------------------------------------------
 
 console.log(itemsFavoritos);

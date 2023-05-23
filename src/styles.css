@@ -54,6 +54,12 @@ button {
     cursor: pointer;
 }
 
+.limpar {
+    cursor: pointer;
+    display: block;
+    margin-top: 8px;
+}
+
 ul {
     width: 100%;
 }

@@ -1,7 +1,13 @@
 const divContent = document.querySelector('.content');
 const inputSearch = document.querySelector('input[type="search"]');
+const btnLimpar = document.querySelector('.limpar')
 const url = './rede-costa-verde.json';
 let items = [];
+
+// Funcao para limpar pesquisa
+btnLimpar.addEventListener('click', () => {
+  divContent.innerHTML = ''
+})
 
 // Função para renderizar os itens na lista
 function renderItems(filteredItems) {

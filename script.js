@@ -14,9 +14,11 @@ btnLimpar.addEventListener('click', () => {
 
 // Funcao de salvar o item
 function salvarItem(item) {
-  divListFavoritos.innerHTML = ''
+  const index = itemsFavoritos.findIndex(favorito => favorito.id === item.id);
 
-  itemsFavoritos.push(item)
+  itemsFavoritos.push(item);
+
+  
 
   itemsFavoritos.forEach(itemFavorito => {
     const { nome, seguimento, telefone, regiao, endereco, princServicos } = itemFavorito;

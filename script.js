@@ -135,9 +135,15 @@ function salvarItem(item) {
 function renderItemsFavoritos() {
   divListFavoritos.innerHTML = '';
 
-  if(!itemsFavoritos > 0) {
-    containerAddFavoritos.innerHTML = ''
-  }
+  setTimeout(() => {
+    const pFavoritos = document.createElement('p')
+    pFavoritos.innerHTML = '<p class="title-favoritos">FAVORITOS</p>'
+    divListFavoritos.prepend(pFavoritos)
+  },60)
+
+  if(itemsFavoritos.length >= 1) {
+    containerAddFavoritos.remove()
+  } 
 
   itemsFavoritos.reverse()
 

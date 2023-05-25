@@ -5,6 +5,7 @@ const inputSearch = document.querySelector('input[type="search"]');
 const btnLimpar = document.querySelector('.limpar');
 const buscaRede = document.querySelector('#buscar-rede');
 const inputSelect = document.querySelector('#inputSelect');
+const containerAddFavoritos = document.querySelector('.container-add-favoritos')
 
 // Constantes
 const url = './rede-costa-verde.json';
@@ -134,7 +135,9 @@ function salvarItem(item) {
 function renderItemsFavoritos() {
   divListFavoritos.innerHTML = '';
 
-  itemsFavoritos.length <= 0 ? console.log('Lista vazia') : console.log('Lista com item');
+  if(!itemsFavoritos > 0) {
+    containerAddFavoritos.innerHTML = ''
+  }
 
   itemsFavoritos.reverse()
 

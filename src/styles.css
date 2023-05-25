@@ -147,3 +147,23 @@ hr {
     opacity: .3;
     margin-bottom: 10px;
 }
+
+.container-add-favoritos {
+    height: 350px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-add-favoritos img {
+    width: 130px;
+    opacity: .6;
+}
+
+.container-add-favoritos .text-add-favoritos {
+    font-size: 1.4rem;
+    text-align: center;
+    margin-top: 10px;
+}

@@ -6,8 +6,8 @@
 }
 
 html {
-    background-color: rgb(248, 248, 248);
-    color: rgb(133, 126, 139);
+    background-color: #F4F4F4;
+    color: #595C64;
     width: 400px;
     padding: 30px;
     margin: 0 auto;
@@ -46,7 +46,7 @@ header {
 
 button {
     margin-top: 10px;
-    background-color: blueviolet;
+    background-color: #2C2D30;
     outline: none;
     border: none;
     color: white;
@@ -67,6 +67,7 @@ ul {
 
 li {
     list-style: none;
+    background: #fff;
     margin: 10px 0;
     padding: 10px;
     border: solid 2px rgb(241, 241, 244);
@@ -95,7 +96,7 @@ li:nth-child(even) {
     display: block;
     width: 6px;
     height: 6px;
-    background: blueviolet;
+    background: #0095FF;
     position: absolute;
     top: 6px;
     left: 3px;
@@ -108,7 +109,7 @@ li:nth-child(even) {
 
 .salvar-local {
     background-color: rgb(241, 241, 244);
-    border: solid 2px blueviolet;
+    border: solid 2px #0095FF;
     color: rgb(133, 126, 139);
     border-radius: 100px;
     width: 92%;

@@ -134,6 +134,8 @@ function salvarItem(item) {
 function renderItemsFavoritos() {
   divListFavoritos.innerHTML = '';
 
+  itemsFavoritos.length <= 0 ? console.log('Lista vazia') : console.log('Lista com item');
+
   itemsFavoritos.reverse()
 
   for (let i = 0; i < itemsFavoritos.length; i++) {

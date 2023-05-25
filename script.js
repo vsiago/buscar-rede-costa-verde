@@ -137,7 +137,7 @@ function renderItemsFavoritos() {
 
   setTimeout(() => {
     const pFavoritos = document.createElement('p')
-    pFavoritos.innerHTML = '<p class="title-favoritos">FAVORITOS</p>'
+    pFavoritos.innerHTML = '<p class="title-favoritos">LOCAIS FAVORITOS</p>'
     divListFavoritos.prepend(pFavoritos)
   },60)
 

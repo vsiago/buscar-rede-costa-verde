@@ -73,6 +73,7 @@ li {
     border: solid 2px rgb(241, 241, 244);
     border-radius: 10px;
     box-shadow: 1px 3px 0px rgba(68, 61, 69, 0.068);
+    position: relative;
 }
 
 li:nth-child(even) {
@@ -166,4 +167,12 @@ hr {
     font-size: 1.4rem;
     text-align: center;
     margin-top: 10px;
+}
+
+.icon-gps {
+    display: block;
+    width: 40px;
+    position: absolute;
+    right: 30px;
+    top: 15px;
 }

@@ -92,6 +92,7 @@ function renderItems(items) {
     const { nome, seguimento, telefone, regiao, endereco, princServicos } = item;
 
     const li = createListItemElement(`
+      <a class="icon-gps" href="https://www.google.com/maps/place/${endereco}"><img src="./img/icone-gps.svg"></a>
       <h3 class="regiao">${regiao}</h3>
       <p class="nome"><strong>${nome}</strong></p>
       <p class="seguimento">${seguimento}</p>
@@ -151,6 +152,7 @@ function renderItemsFavoritos() {
     const { nome, seguimento, telefone, regiao, endereco, princServicos } = itemsFavoritos[i];
 
     const li = createListItemElement(`
+      <a class="icon-gps" href="https://www.google.com/maps/place/${endereco}"><img src="./img/icone-gps.svg"></a>
       <h3 class="regiao">${regiao}</h3>
       <p class="nome"><strong>${nome}</strong></p>
       <p class="seguimento">${seguimento}</p>
